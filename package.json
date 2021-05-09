@@ -1,0 +1,20 @@
+{
+  "name": "coronaconnect",
+  "version": "1.0.0",
+  "description": "MIT Covid Hackathon project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aramachandran7/CoronaConnect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aramachandran7/CoronaConnect/issues"
+  },
+  "homepage": "https://github.com/aramachandran7/CoronaConnect#readme",
+  "dependencies": {}
+}
